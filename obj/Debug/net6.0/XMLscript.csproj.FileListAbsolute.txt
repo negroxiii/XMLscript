@@ -1,0 +1,15 @@
+C:\Users\C3PO\Documents\code\XMLscript\bin\Debug\net6.0\XMLscript.exe
+C:\Users\C3PO\Documents\code\XMLscript\bin\Debug\net6.0\XMLscript.deps.json
+C:\Users\C3PO\Documents\code\XMLscript\bin\Debug\net6.0\XMLscript.runtimeconfig.json
+C:\Users\C3PO\Documents\code\XMLscript\bin\Debug\net6.0\XMLscript.dll
+C:\Users\C3PO\Documents\code\XMLscript\bin\Debug\net6.0\XMLscript.pdb
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\XMLscript.csproj.AssemblyReference.cache
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\XMLscript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\XMLscript.AssemblyInfoInputs.cache
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\XMLscript.AssemblyInfo.cs
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\XMLscript.csproj.CoreCompileInputs.cache
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\XMLscript.dll
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\refint\XMLscript.dll
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\XMLscript.pdb
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\XMLscript.genruntimeconfig.cache
+C:\Users\C3PO\Documents\code\XMLscript\obj\Debug\net6.0\ref\XMLscript.dll
